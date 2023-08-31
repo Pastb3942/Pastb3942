@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pastb3942
-- 👀 I’m interested in Html c++ python css JavaScript mongoDB react.js
+- 👀 I’m interested in Html c++ css JavaScript mongoDB  angular
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bnem1027@gmail.com
